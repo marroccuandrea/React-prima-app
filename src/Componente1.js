@@ -5,6 +5,7 @@ const Componente1 = () => {
     <div>
         <h2>Ciao</h2>
         <h2>Ciao Ciao</h2>
+        <input type='text' /> {/* Questo è un input e va chiuso sempre quandp si programma in JSX */}
     </div>
   )
 }
